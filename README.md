@@ -32,3 +32,9 @@ Logo em seguinta vai executar o comando `setoolkit`
 ### Resultado
 
 ![Captura de Senha do Google](https://github.com/Danaraujoc/santander-cibersecurity-desafio-phishing/blob/main/Captura%20de%20Senha%20do%20Google.png)
+
+## Referência
+
+ - [ACADI-TI](https://acaditi.com.br/setoolkit-instalacao-e-comandos-essenciais/)
+ - [Repositório Cibersecurity-Desafio-Phishing](https://github.com/cassiano-dio/cibersecurity-desafio-phishing/tree/master/)
+ - [Slides](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EVC5IlsbPCRHqGmpWiJ6LpYBODplb07kU4SyM6y9p05zCA?rtime=7uI8_Nc83Ug)
