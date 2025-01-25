@@ -13,9 +13,14 @@ Logo em seguinta vai executar o comando `setoolkit`
 - Escolha a opção 3 para “Credential Harvester Attack Method”.
 - Selecione a opção 2 para “Site Cloner”.
 - Confirme o endereço IP que vai ser usado como clone.
-- Insira o endereço URL do site que deseja clonar.
+- Insira o endereço URL do site que deseja clonar(https://www.linkedin.com/login).
 - O SEToolkit clonará o site e fornecerá um link para compartilhar com a vítima.
 ```
+### Observação:
+É importante ressaltar que o endereço da pagina que se deseja clonar tem que estar exetamente como no navegador, como no exemplo do Linkedin eu clonei a página de Login que está no caminho /login.
+
+Você pode até clonar só endereço normal porém ao ir para a página de login vai dá erro no navegador.
+
 ### Resultado
 ![Captura de Senha do Linkedin](https://github.com/Danaraujoc/santander-cibersecurity-desafio-phishing/blob/main/Captura%20de%20Senha%20do%20Linkedin.png)
 
