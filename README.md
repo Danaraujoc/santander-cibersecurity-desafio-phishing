@@ -12,7 +12,7 @@ Logo em seguinta vai executar o comando `setoolkit`
 - Selecione a opção 2 para “Website Attack Vectors”.
 - Escolha a opção 3 para “Credential Harvester Attack Method”.
 - Selecione a opção 2 para “Site Cloner”.
-- Confirme o endereço IP que vai ser usado como clone
+- Confirme o endereço IP que vai ser usado como clone.
 - Insira o endereço URL do site que deseja clonar.
 - O SEToolkit clonará o site e fornecerá um link para compartilhar com a vítima.
 ```
@@ -25,7 +25,7 @@ Logo em seguinta vai executar o comando `setoolkit`
 - Selecione a opção 2 para “Website Attack Vectors”.
 - Escolha a opção 3 para “Credential Harvester Attack Method”.
 - Selecione a opção 1 para “Web Templates”.
-- Confirme o endereço IP que vai ser usado como clone
+- Confirme o endereço IP que vai ser usado como clone.
 - Insira o endereço URL do site que deseja clonar.
 - O SEToolkit clonará o site e fornecerá um link para compartilhar com a vítima.
 ```
